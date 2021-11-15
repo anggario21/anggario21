@@ -56,13 +56,15 @@
 If you want to reach out to me about anything, feel free to contact me 😉.
 
 <a href="mailto:anggario_21@gmail.com">
-  <img src="https://github.com/anggario21/anggario21/blob/main/assets/gmail.png" alt="gmail" height="50">
+  <img src="https://github.com/anggario21/anggario21/blob/main/assets/gmail.png" alt="gmail" width="150">
 </a>
+</br>
 <a href="https://www.linkedin.com/in/cristmas-anggario-ipb/">
-  <img src="https://github.com/anggario21/anggario21/blob/main/assets/linkedin.png" alt="linkedin" height="50">
+  <img src="https://github.com/anggario21/anggario21/blob/main/assets/linkedin.png" alt="linkedin" width="150">
 </a>
+</br>
 <a href="https://www.instagram.com/anggario_/?hl=id">
-  <img src="https://github.com/anggario21/anggario21/blob/main/assets/instagram.png" alt="ig" height="50">
+  <img src="https://github.com/anggario21/anggario21/blob/main/assets/instagram.png" alt="ig" width="150">
 </a>
 </br>
 </br>
