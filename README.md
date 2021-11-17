@@ -10,14 +10,12 @@
 
 # About Me 💬 
 
-### - I'm Front End Web Development Enthusiast
+### - Based in Bekasi , Indonesia 🇮🇩
 
 <img alt="GIF" align="right" src="https://github.com/anggario21/anggario21/blob/main/assets/gif/killua.gif">
 
-### - Based in Bekasi , Indonesia 🇮🇩
-
 ### - Learning :
-- ✨ Front End Web Development
+- ✨ Web Development
 
 </br>
 </br>
